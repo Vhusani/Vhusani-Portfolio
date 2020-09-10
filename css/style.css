@@ -191,6 +191,7 @@ body.dark .bl-main>section:nth-child(4).bl-expand .contact .rightside .input-fie
 }
 body.dark .my-picture {
 	border: 3px solid #313131;
+	max-width: 100%;
 }
 body.dark .resume-list-item {
     background: rgba(255, 255, 255, 0.1) !important;
@@ -949,6 +950,7 @@ span.separator {
 #bl-work-items>div a img {
 	display: block;
 	position: relative;
+
 }
 
 #bl-work-items>div a {
